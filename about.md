@@ -62,15 +62,15 @@
   Name: Simran Kachroo<br/>
   Hometown: Dubai, United Arab Emirates<br/>
 ##### How would you describe presales to someone who is not familiar with the career?
-  Solutions engineering, solutions architecture,  systems engineering, and technical consulting are somewhat all synonyms to presales
+  Presales engineering is what one may call it solutions engineering, solutions architecture, systems engineering, or technical consulting. I like to refer to it as being a tech-doctor. From engaging with clients, to understanding their current IT infrastructure and vision for the future, to generating a technology-oriented remedy by being their trusted advisor, this profession entails it all. 
 ##### Why did you choose presales at Dell?
-  Chose presales because it closely aligns with my career trajectory of wanting to  work with pitching technology and finding solutions to the client's needs
+ Presales engineering closely aligns with my ambition of working with clients and devising solutions that cater to their technological limitations/opportunities by leveraging the solution portfolio, which here at Dell is tremendously vast, and is continuously expanding and improving from what I can see.
 ##### Were you familiar with presales before hearing about the position?
-  No
+  No, but I'm glad that notion is changing.
 ##### What skills do you believe are valued in a presales engineer?
-  Strong STEM and interpersonal skills. An amalgamation of strong hard and soft skills is what makes for an ideal candidate
+  Having strong STEM aptitude and polished interpersonal skills builds an ideal candidate for this role.
 ##### If you have any comments regarding a career in presales, or about your time at Dell, please list them below.
-  Dell has a great company culture, and a career in presales is so boundless, as one can switch concentrations internally with great convenience.
+  Dell is a great company with such an enriching culture that is both people and technology driven, and a career in presales is so boundless as it allows for limitless learning and development. From what I’ve experienced over the two summers of interning here, being customer-centric versus target-centric is what Dell holds great pride in, and this is our strongest USP.
   <br/><br/>
   
   ![Image](/photos/natasha_meinzen.JPG) <br/>
